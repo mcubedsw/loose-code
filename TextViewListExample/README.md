@@ -1,4 +1,4 @@
-#TextViewListExample
+# TextViewListExample
 
 This sample project shows how to implement a support for text lists in NSTextView on the Mac, as implemented in [Coppice](https://coppiceapp.com).
 
